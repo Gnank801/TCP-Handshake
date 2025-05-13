@@ -1,4 +1,4 @@
-# Assignment 3: TCP Handshake Client
+# TCP Handshake Client
 
 **Course:** CS425: Computer Networks  
 **Instructor:** Adithya Vadapalli  
